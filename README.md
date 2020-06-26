@@ -1,6 +1,6 @@
 # Specilization Lab
 
-# Remote controlling of Network Analyzer (NA), Spectrum Analyzer (SA), Lecroy Scope using MATLAB and LABVIEW
+ Remote controlling of Network Analyzer (NA), Spectrum Analyzer (SA), Lecroy Scope using MATLAB and LABVIEW
 
 .m file is the MATLAB program
 .png file is the result of the matlab program
