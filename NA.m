@@ -1,3 +1,5 @@
+%% Controlling Network Analyzer remotly by MATLAB
+
 clc; clear all; close all;
 test_obj=visa('agilent','TCPIP0::169.254.58.10::gpib0,2::INSTR'); % check IP address
 set(test_obj,'InputBufferSize', 100000);
