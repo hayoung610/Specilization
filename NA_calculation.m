@@ -1,3 +1,5 @@
+%% Calculation of secondary line parameters of telephone cable using the data obtained by network analyzer
+
 clear all; close all;
 %Import data
 tem1 = importdata('bal_open.txt',';',1);
